@@ -1,15 +1,5 @@
-// TODO: Create a function that returns a license badge based on which license is passed in
-// If there is no license, return an empty string
 
 
-
-// TODO: 
-// If there is no license, return an empty string
-function renderLicenseLink(license) {}
-
-// TODO: Create a function that returns the license section of README
-// If there is no license, return an empty string
-function renderLicenseSection(license) {}
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
@@ -38,8 +28,6 @@ To run tests, you need to run the following command: ${data.Test}
 If you have any questions about the repo, open an issue or contact ${data.UserName} directly ${data.Email}
 # Repo
 Information for the user about the REPO: ${data.Repoinfo}`
-
-
 
 }
 
