@@ -6,7 +6,6 @@ View the deployed page at [README Generator](https://github.com/ethomasa/readMeG
 ## Contents
 * [Installation](#installation)
 * [Usage](#usage)
-   * [Screenshots](#screenshots)
 * [Built With](#built-with)
 * [License](#license)
 * [Contributing](#contributing)
