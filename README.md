@@ -2,7 +2,7 @@
 ## Description
 A Node.js application that will help you generate a professional README file.
             
-View the deployed page at [README Generator](https://github.com/ethomasa/readMeGeneratorr).
+View the deployed page at [README Generator](https://github.com/ethomasa/readMeGenerator).
 ## Contents
 
 * [Demo video](#Demovideo)
