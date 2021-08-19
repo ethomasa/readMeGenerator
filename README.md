@@ -8,7 +8,7 @@ View the deployed page at [README Generator](https://github.com/ethomasa/readMeG
 * [Usage](#usage)
 * [Built With](#built-with)
 * [License](#license)
-* [Demo video](#Demo video)
+* [Demo video](#Demovideo)
 * [Tests](#tests)
 * [Questions](#questions)
 
